@@ -27,6 +27,17 @@ Currently, I'm working on building and scaling SaaS platforms, with a strong foc
 
 ## 🛠️ Tech Stack
 
+---
+
+## 🏆 Certifications
+
+### ☁️ AWS Certified Cloud Practitioner
+**Amazon Web Services (AWS)** — `CLF-C02`
+
+[🔗 Verify AWS Certification](https://www.credly.com/badges/0a45d411-d2f2-4113-b5aa-a01187994df2)
+
+> Milestone 01/∞ — Building deeper expertise in AWS Cloud and DevOps.
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
